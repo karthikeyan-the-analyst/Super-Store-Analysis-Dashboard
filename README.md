@@ -1,3 +1,5 @@
+![Super Store Analysis Dashboard](https://github.com/karthikeyan-the-analyst/Super-Store-Analysis-Dashboard/blob/main/Super%20Store%20Sales%20Analysis%20Dashboard.png)
+
 # Super-Store-Analysis-Dashboard
 
 Superstore Sales Analysis Report: Data Analysis Using Microsoft Excel:
