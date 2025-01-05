@@ -10,9 +10,13 @@ To provide actionable insights by analyzing the superstore’s sales data, ident
 
 # Highlights
 ⇨Sales Performance Analysis: Assessed total sales and profit metrics, uncovering a 12% profit margin from total sales of $22,92,669.
+
 ⇨Regional Insights: Identified California as the top-performing state by sales ($4,57,688), with Consumer Segment contributing the highest sales ($11,59,839).
+
 ⇨Product Performance: Evaluated product categories, revealing Technology as the most profitable category ($1,45,455) and Furniture with minimal profit ($18,451).
+
 ⇨Time-Series Analysis: Conducted Month-over-Month (MoM) change analysis in profit, identifying significant spikes and trends over 2014–2017.
+
 ⇨Interactive Dashboard: Designed an Excel dashboard that visualized sales trends, regional and segment contributions, and product performance, enabling quick insights.
 
 # Conclusion
